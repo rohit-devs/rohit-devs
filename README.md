@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Rohit 👋
 
-<!--
-**rohit-devs/rohit-devs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aspiring Full Stack Developer
+💻 Java | Spring Boot | React | MySQL
+📍 India
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 About Me
+
+* 🎓 IT Student
+* 🌱 Currently learning Full Stack Development
+* 🎯 Goal: Software Developer Internship
+
+---
+
+## 🛠 Tech Stack
+
+* 💻 Frontend: React, HTML, CSS, JavaScript
+* ⚙️ Backend: Spring Boot, Java
+* 🗄 Database: MySQL
+
+---
+
+## 🚀 Projects
+
+* 🔹 Student Management System
+* 🔹 MindEase (Mental Health App)
+* 🔹 SkillEarn Platform
+
+---
+
+## 📫 Contact Me
+
+* 📧 Email: rohitdmohotkar005@gmail.com
+* 💼 LinkedIn: [(add link)](https://www.linkedin.com/feed/)
