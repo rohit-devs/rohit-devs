@@ -28,6 +28,15 @@
 * 🔹 MindEase (Mental Health App)
 * 🔹 SkillEarn Platform
 
+  ---
+
+### 🚀 Featured Project
+[![Skill-To-Income](https://github-readme-stats.vercel.app/api/pin/?username=rohit-devs&repo=skillearn&theme=tokyonight)](https://github.com/rohit-devs/skillearn)
+
+### 📊 GitHub Stats
+![Rohit's Stats](https://github-readme-stats.vercel.app/api?username=rohit-devs&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rohit-devs&layout=compact&theme=tokyonight)
+
 ---
 
 ## 📫 Contact Me
