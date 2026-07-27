@@ -113,9 +113,9 @@ Responsive web apps using React, Node.js, Express and MongoDB.
 
 ## 🌐 Connect with Me
 
-- GitHub: https://github.com/YOUR_USERNAME
-- LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
-- Email: your.email@example.com
+- GitHub: https:[//github.com/YOUR_USERNAME](https://github.com/rohit-devs)
+- LinkedIn:[ https://linkedin.com/in/YOUR_LINKEDIN](http://linkedin.com/in/rohit-mohotkar-52465b3b7)
+- Email:rohit.d.mohotkar@gmail.com
 
 ---
 
